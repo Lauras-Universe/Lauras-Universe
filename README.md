@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lady-bassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lady-bassy" height="30" width="40" /></a>
+<a href="https://codepen.io/lauras-universe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lauras-universe codepen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
