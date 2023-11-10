@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lauras-universe.de](https://lauras-universe.de)
 
-- 👨‍💻 All of my socials [https://tree.lauras-universe.li](https://tree.lauras-universe.li)
+- 👨‍💻 All of my socials <a href="https://tree.lauras-universe.li" target="_blank" rel="me">Lauras Universe Tree</a>
 
 - 📫 How to reach me **github@lauras-universe.de**
 
